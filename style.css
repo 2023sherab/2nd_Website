@@ -1,0 +1,30 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background:linear-gradient(#1bffff, #2e3192);
+    background-size: contain;
+    color: #fff;
+}
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+img{
+    display: block;
+    margin: auto;
+    border-radius: 2%;
+    width: 200px;
+}
+span{
+    color: orangered;
+}
+div{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+h1,h3{
+    text-align: center;
+}
+
+
