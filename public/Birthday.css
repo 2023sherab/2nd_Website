@@ -1,0 +1,35 @@
+body{
+    background: linear-gradient(#1bffff, #2e3192);
+}
+
+nav{
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    padding-right: 20px;
+}
+h1{
+    text-align: center;
+}
+span{
+    color: orangered;
+}
+h3{
+    text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+}
+h4{
+    text-align: center;
+    color: darkorange;
+}
+ul{
+    list-style-type: none;
+    padding-left: 50px;
+}
+#gif{
+    width: 300px;
+    height: 200px;
+}

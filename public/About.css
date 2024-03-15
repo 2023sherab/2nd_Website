@@ -1,0 +1,37 @@
+body{
+    background: linear-gradient(to right, orangered, skyblue);
+}
+
+nav{
+    display: flex;
+    justify-content: end;
+    gap: 10px;
+    padding-right: 20px;
+}
+body{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+}
+span{
+    color: deeppink;
+}
+img{
+    width: 200px;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+}
+h4,p{
+    letter-spacing: 2px;
+    text-align: justify;
+    padding-left: 20px;
+}
+h3{
+    color: orangered;
+    text-align: center;
+    margin-bottom: 10px;
+    text-decoration: underline;
+}
